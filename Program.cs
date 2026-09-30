@@ -32,7 +32,7 @@
             int workingNum = userNum;
 
             DateTime startTime = DateTime.Now;
-            for (int currentDivisor = 2; workingNum != 1; currentDivisor = currentDivisor) {
+            for (int currentDivisor = 2; workingNum != 1; currentDivisor = currentDivisor) { // TODO: Fix this wonder (currentDivisor = currentDivisor)
                 if (workingNum % currentDivisor == 0) {
                     factors.Add(currentDivisor);
                     workingNum /= currentDivisor;

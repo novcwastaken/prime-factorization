@@ -12,3 +12,4 @@
 /home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.pdb
 /home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.genruntimeconfig.cache
 /home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/ref/Prime.dll
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.sourcelink.json
