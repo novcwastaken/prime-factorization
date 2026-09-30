@@ -1,0 +1,14 @@
+/home/novc/Programming/C#/mini/Prime/bin/Debug/net10.0/Prime
+/home/novc/Programming/C#/mini/Prime/bin/Debug/net10.0/Prime.deps.json
+/home/novc/Programming/C#/mini/Prime/bin/Debug/net10.0/Prime.runtimeconfig.json
+/home/novc/Programming/C#/mini/Prime/bin/Debug/net10.0/Prime.dll
+/home/novc/Programming/C#/mini/Prime/bin/Debug/net10.0/Prime.pdb
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.GeneratedMSBuildEditorConfig.editorconfig
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.AssemblyInfoInputs.cache
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.AssemblyInfo.cs
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.csproj.CoreCompileInputs.cache
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.dll
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/refint/Prime.dll
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.pdb
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/Prime.genruntimeconfig.cache
+/home/novc/Programming/C#/mini/Prime/obj/Debug/net10.0/ref/Prime.dll

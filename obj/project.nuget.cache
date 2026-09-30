@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpzURkaNC2A=",
+  "success": true,
+  "projectFilePath": "/home/novc/Programming/C#/mini/Prime/Prime.csproj",
+  "expectedPackageFiles": [
+    "/home/novc/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
